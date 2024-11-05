@@ -1,0 +1,79 @@
+h1{
+    background-color: aqua;
+    margin-top: 10px;
+    padding: 10px;
+    margin: 40px;
+    width: 500px;
+    line-height: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 10px 30px black;
+    color: black;
+}
+
+h2{
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+    
+.bg{
+    background-color: rgb(235, 226, 203);
+
+}
+
+td{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px black;
+}
+
+.number{
+    line-height: 0px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.name{
+    line-height: 0px;
+    font-weight: bold;
+}
+
+.category1{
+    background-color: rgb(83, 173, 98);
+}
+.category2{
+    background-color: rgb(247, 20, 65);
+}
+.category3{
+    background-color: rgb(232, 142, 46);
+}
+.category4{
+    background-color: rgb(108, 203, 235);
+}
+.category5{
+    background-color: rgb(218, 104, 235);
+}
+.category6{
+    background-color: rgb(245, 248, 46);
+}
+.category7{
+    background-color: rgb(241, 111, 217);
+}
+.category8{
+    background-color: gray
+}
+.category9{
+    background-color: rgb(101, 122, 189)
+}
+
+.sz{
+    height: 300px;
+    width: 1000px;
+}
+
+.lasttwolines{
+    height: 100px;
+    width: 830px;
+
+}
